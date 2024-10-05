@@ -8,6 +8,7 @@ class GraphQLApplicationTests {
 
     @Test
     void contextLoads() {
+        // Tests to do
     }
 
 }
